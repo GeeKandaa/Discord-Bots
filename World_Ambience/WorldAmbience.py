@@ -121,4 +121,4 @@ async def stop(ctx):
   voice.stop()
 
 
-client.run("ODc3OTYxMDY5MDAyMzgzMzcx.YR6O9g.Ro2m6DQWRvkABtxNRkedOjy3GsA")
+client.run("TOKEN")

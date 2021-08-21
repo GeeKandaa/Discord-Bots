@@ -125,4 +125,4 @@ async def on_ready():
   print('------')
 
 bot.add_cog(Ambience(bot))
-bot.run('ODc3OTYxMDY5MDAyMzgzMzcx.YR6O9g.Ro2m6DQWRvkABtxNRkedOjy3GsA')
+bot.run('TOKEN')

@@ -42,4 +42,4 @@ async def see(ctx, *monster_names):
 async def on_ready():
   print(f'{bot.user} is now online!')
 
-bot.run('ODc4NTUxNDA2Mjg4NzE5OTEz.YSC0wQ.JmitXdTsrYmbo1Z_8UCRlIHq3tQ')
+bot.run('TOKEN')
